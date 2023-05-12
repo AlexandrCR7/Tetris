@@ -1,0 +1,15 @@
+C:\Коммерческий Директор это я\Рабочая тетрадь\Гик\Работа с гит\Repit\repitlessons\bin\Debug\net6.0\repitlessons.exe
+C:\Коммерческий Директор это я\Рабочая тетрадь\Гик\Работа с гит\Repit\repitlessons\bin\Debug\net6.0\repitlessons.deps.json
+C:\Коммерческий Директор это я\Рабочая тетрадь\Гик\Работа с гит\Repit\repitlessons\bin\Debug\net6.0\repitlessons.runtimeconfig.json
+C:\Коммерческий Директор это я\Рабочая тетрадь\Гик\Работа с гит\Repit\repitlessons\bin\Debug\net6.0\repitlessons.dll
+C:\Коммерческий Директор это я\Рабочая тетрадь\Гик\Работа с гит\Repit\repitlessons\bin\Debug\net6.0\repitlessons.pdb
+C:\Коммерческий Директор это я\Рабочая тетрадь\Гик\Работа с гит\Repit\repitlessons\obj\Debug\net6.0\repitlessons.csproj.AssemblyReference.cache
+C:\Коммерческий Директор это я\Рабочая тетрадь\Гик\Работа с гит\Repit\repitlessons\obj\Debug\net6.0\repitlessons.GeneratedMSBuildEditorConfig.editorconfig
+C:\Коммерческий Директор это я\Рабочая тетрадь\Гик\Работа с гит\Repit\repitlessons\obj\Debug\net6.0\repitlessons.AssemblyInfoInputs.cache
+C:\Коммерческий Директор это я\Рабочая тетрадь\Гик\Работа с гит\Repit\repitlessons\obj\Debug\net6.0\repitlessons.AssemblyInfo.cs
+C:\Коммерческий Директор это я\Рабочая тетрадь\Гик\Работа с гит\Repit\repitlessons\obj\Debug\net6.0\repitlessons.csproj.CoreCompileInputs.cache
+C:\Коммерческий Директор это я\Рабочая тетрадь\Гик\Работа с гит\Repit\repitlessons\obj\Debug\net6.0\repitlessons.dll
+C:\Коммерческий Директор это я\Рабочая тетрадь\Гик\Работа с гит\Repit\repitlessons\obj\Debug\net6.0\refint\repitlessons.dll
+C:\Коммерческий Директор это я\Рабочая тетрадь\Гик\Работа с гит\Repit\repitlessons\obj\Debug\net6.0\repitlessons.pdb
+C:\Коммерческий Директор это я\Рабочая тетрадь\Гик\Работа с гит\Repit\repitlessons\obj\Debug\net6.0\repitlessons.genruntimeconfig.cache
+C:\Коммерческий Директор это я\Рабочая тетрадь\Гик\Работа с гит\Repit\repitlessons\obj\Debug\net6.0\ref\repitlessons.dll
